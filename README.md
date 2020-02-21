@@ -1,7 +1,7 @@
 # MyOwnAlexa
 *An Android application which gives you your own Artificial Personal Assistant - **ALEXA***
 <p align="center">
-<img src="Screenshots/collage.png" height = "600" width="750"> 
+<!-- <img src="Screenshots/collage.png" height = "600" width="750">  -->
 </p>
 
 
@@ -26,9 +26,13 @@
    2. Now you will be directed to **Talk Box** activity where you can talk with **Alexa**. Just keep your finger down on the button and ask your 
    question and release it when you are finished.
    
+   <!-- 
    <p align="center">
-<img src="Screenshots/Screenshot_20180511-223041.png" height = "480" width="270"> <img src="Screenshots/Screenshot_20180511-223044.png" height = "480" width="270"> <img src="Screenshots/Screenshot_20180511-223047.png" height = "480" width="270">
-</p>
+      <img src="Screenshots/Screenshot_20180511-223041.png" height = "480" width="270">
+      <img src="Screenshots/Screenshot_20180511-223044.png" height = "480" width="270">
+      <img src="Screenshots/Screenshot_20180511-223047.png" height = "480" width="270">
+   </p> 
+   -->
    
 ## Set an alarm   
     
